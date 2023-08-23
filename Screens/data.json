@@ -1,0 +1,212 @@
+[
+    {
+        "nombre":"Secuestro en Directo",
+        "img":"https://pics.filmaffinity.com/Secuestro_en_directo-204090545-large.jpg",
+        "desc":"Elvis lleva 25 años aconsejando a sus oyentes en directo en su emblemático programa nocturno de entrevistas. Es uno de los últimos míticos locutores de radio que quedan y su sobrada experiencia le hace ignorar las advertencias de su jefa sobre su comportamiento en el programa. Cada noche llega a sus oyentes con su inconfundible voz y sus agudas réplicas. Tiene una opinión sobre prácticamente todo y se embarra en toda clase de polémicas. Hasta que una noche recibe la llamada de un hombre que está a punto de hacer algo terrible.",
+        "ready": false
+    },
+    {
+        "nombre":"El Rey Mono",
+        "img":"https://pics.filmaffinity.com/El_Rey_Mono-232332190-large.jpg",
+        "desc":"El Rey Mono es uno de los seres más poderosos del Universo. Capaz de realizar una magia única, acabar con todos los demonios que se interpongan en su camino, y con el poder de cambiar su forma a su antojo, este personaje utiliza su poder para todo tipo de fines no lucrativos. Ha causado el caos en el cielo, bajo el mar y ha regresado de entre los muertos para continuar con sus travesuras y engaños.",
+        "ready": false
+    },
+    {
+        "nombre": "Elementos",
+        "img": "https://pics.filmaffinity.com/Elemental-694000259-large.jpg",
+        "desc": "Ambientada en Ciudad Elemento, donde conviven habitantes de fuego, agua, tierra y aire. La protagonista de la historia es Candela, una joven fuerte, ingeniosa y con carácter, cuya amistad con un chico sensible, afable y tranquilo, llamado Nilo, cambia su perspectiva sobre el mundo en el que viven.",
+        "ready": false
+    },
+    {
+        "nombre":"La Maquina",
+        "img":"https://pics.filmaffinity.com/The_Machine-604689991-large.jpg",
+        "desc":"El pasado borracho de Bert lo alcanza 20 años después cuando él y su padre son secuestrados por aquellos a quienes Bert agravió hace 20 años mientras estaba borracho en un semestre universitario en el extranjero en Rusia.",
+        "ready": false
+    },
+    {
+        "nombre":"",
+        "img":"",
+        "desc":"",
+        "ready":false
+    },
+    {
+        "nombre":"",
+        "img":"",
+        "desc":"",
+        "ready":false
+    },
+    {
+        "nombre":"",
+        "img":"",
+        "desc":"",
+        "ready":false
+    },
+    {
+        "nombre":"",
+        "img":"",
+        "desc":"",
+        "ready":false
+    },
+    {
+        "nombre": "Flash",
+        "img": "https://pics.filmaffinity.com/Flash-205686824-large.jpg",
+        "desc": "Los mundos chocan en «Flash» cuando Barry utiliza sus superpoderes para viajar en el tiempo y cambiar los acontecimientos del pasado. Barry intenta salvar a su familia, pero sin saberlo altera el futuro y queda atrapado en una realidad en la que el general Zod ha regresado y amenaza con la aniquilación, pero en la que no hay Superhéroes a los que recurrir.",
+        "ready": true
+    },
+    {
+        "nombre":"Spiderman a travez del Spiderverso",
+        "img": "https://pics.filmaffinity.com/Spider_Man_Cruzando_el_Multiverso-257260163-large.jpg",
+        "desc": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia.",
+        "ready": true
+    },
+    {
+        "nombre":"La Sirenita 2023",
+        "img": "https://pics.filmaffinity.com/La_sirenita-836840302-large.jpg",
+        "desc": "Después de un accidente en el mar, un barco sufre un dramático hundimiento. Será entonces, cuando Ariel salva de morir ahogado a un joven, el príncipe Eric, desobedeciendo así las normas que prohiben el contacto con los seres humanos. Perdidamente enamorada de Eric, Ariel no querrá separarse de él, y tomará una difícil decisión.",
+        "ready":true
+    },
+    {
+        "nombre":"Transformers Despertar de las Bestias",
+        "img": "https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-717876501-large.jpg",
+        "desc": "Nueva York, 7 años después, un par de arqueólogos se ven envueltos en un antiguo conflicto a través de una aventura por todo el mundo que se relaciona con tres facciones de Transformers: los Maximals, los Predacons y los Terrorcons mientras ayudan a Optimus Prime y los Autobots en una guerra para proteger la Tierra ante la llegada de Unicron.",
+        "ready":true
+    },
+    {
+        "nombre":"Creed 3",
+        "img": "https://pics.filmaffinity.com/Creed_III-358416025-large.jpg",
+        "desc": "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damian, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años.",
+        "ready":true
+    },
+    {
+        "nombre":"Creed 2",
+        "img": "https://pics.filmaffinity.com/Creed_II_La_leyenda_de_Rocky-331206102-large.jpg",
+        "desc": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar.",
+        "ready":true
+    },
+    {
+        "nombre":"Creed",
+        "img": "https://pics.filmaffinity.com/Creed_La_leyenda_de_Rocky-313216490-large.jpg",
+        "desc": "Adonis Johnson no tuvo la fortuna de conocer a su padre, el campeón del mundo de los pesos pesados Apollo Creed, que falleció antes de que él naciera. Sin embargo, nadie puede negar que lleva el boxeo en la sangre, por lo que pone rumbo a Filadelfia, el lugar en el que se celebró el legendario combate entre su padre y Rocky Balboa. Una vez allí, Adonis busca a Rocky y le pide que sea su entrenador.",
+        "ready":true
+    },
+    {
+        "nombre":"Guardiantes de la galaxia V3",
+        "img": "https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-544021838-large.jpg",
+        "desc": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que podría conducir al final de los Guardianes tal y como los conocemos.",
+        "ready":true
+    },
+    {
+        "nombre":"Vertigo",
+        "img": "https://pics.filmaffinity.com/Fall-214167302-large.jpg",
+        "desc": "Para Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra.",
+        "ready": true
+    },
+    {
+        "nombre":"Annabelle  3",
+        "img": "https://pics.filmaffinity.com/Annabelle_vuelve_a_casa-105571611-large.jpg",
+        "desc": "Los especialistas en demonios Ed y Lorraine Warren están decididos a evitar que Annabelle cause más problemas, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan «a salvo» en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación.",
+        "ready": true
+    },
+    {
+        "nombre":"Conjuro 3",
+        "img": "https://pics.filmaffinity.com/Expediente_Warren_Obligado_por_el_demonio-118623652-large.jpg",
+        "desc": "Este film retoma uno de los casos que enfrentaron los famosos demonólogos Ed y Lorraine Warren, quienes se verán en medio de una controversia cuando acepten ser parte importante de la defensa en el caso por homicidio de Arnie Cheyenne Johnson, un hombre que aseguró haber cometido homicidio bajo posesión demoníaca.",
+        "ready": true
+    },
+    {
+        "nombre":"Super Mario Bros",
+        "img": "https://pics.filmaffinity.com/Super_Mario_Bros_La_pelaicula-521125124-large.jpg",
+        "desc": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y Luigi, viajan por una misteriosa tubería hasta un mundo mágico. Pero, los hermanos se separan, y Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda de Toad y unas cuantas nociones de combate de la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+        "ready": true
+    },
+    {
+        "nombre":"Evil Dead Rise",
+        "img": "https://pics.filmaffinity.com/Posesiaon_infernal_El_despertar-438707144-large.jpg",
+        "desc": "Cuenta la historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar.",
+        "ready": true
+    },
+    {
+        "nombre":"Exorcista del Papa",
+        "img": "https://pics.filmaffinity.com/El_exorcista_del_papa-660382735-large.jpg",
+        "desc": "Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.",
+        "ready": true
+    },
+    {
+        "nombre":"Peter Pan y Wendy",
+        "img": "https://pics.filmaffinity.com/Peter_Pan_Wendy-646023267-large.jpg",
+        "desc": "El niño que se niega a crecer vuelve a la gran pantalla de la mano de Disney. En esta nueva película volveremos a ver las aventuras de Peter Pan, el joven que vive junto a sus amigos los Niños Perdidos en el país de Nunca Jamás rodeado de hadas, sirenas e indios, y que pasa su tiempo volando y enfrentándose a piratas.",
+        "ready": true
+    },
+    {
+        "nombre":"Ant-Man Quantumania",
+        "img": "https://pics.filmaffinity.com/Ant_Man_y_la_Avispa_Quantumanaia-585469373-large.jpg",
+        "desc": "Scott Lang (Paul Rudd) está disfrutando de su vida como Vengador y de la fama que ha ganado por ayudar a salvar a la humanidad en Vengadores: Endgame. No obstante,eso cambia cuando los secretos familiares empiezan a salir a la luz.",
+        "ready": true
+    },
+    {
+        "nombre":"Shazam 2",
+        "img": "https://pics.filmaffinity.com/aShazam_La_furia_de_los_dioses-942384944-large.jpg",
+        "desc": "Billy Batson y sus compañeros adoptados han recibido los poderes de los dioses pero aún están aprendiendo a compaginar sus vidas de adolescentes con sus alter-egos superheróicos. Pero cuando las Hijas de Atlas, un vengativo trío de antiguos dioses, llegan a la Tierra en busca de la magia que les robaron hace mucho tiempo.",
+        "ready": true
+    },
+    {
+        "nombre":"Momias",
+        "img": "https://pics.filmaffinity.com/Momias-918059988-large.jpg",
+        "desc": "En las entrañas de la tierra, ¡existe una ciudad de momias! Por mandato imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno desea el matrimonio; Nefer porque ansía la libertad, y Thut porque es alérgico al matrimonio. Pero los designios de los dioses son irrevocables.",
+        "ready": true
+    },
+    {
+        "nombre":"Avatar 2",
+        "img": "https://pics.filmaffinity.com/Avatar_El_sentido_del_agua-643850470-large.jpg",
+        "desc": "Nos trasladamos diez años después de la primera batalla de Pandora, Jake Sully vive tranquilamente con su familia y su tribu. Sin embargo, deben abandonar su hogar y explorar diferentes e inhospitas regiones de Pandora, adentrándose en el mar y haciendo pactos con otros Na’vi de dichas regiones.",
+        "ready": true
+    },
+    {
+        "nombre":"Pantera Negra Wakanda Forever",
+        "img": "https://pics.filmaffinity.com/Black_Panther_Wakanda_Forever-592639712-large.jpg",
+        "desc": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa.",
+        "ready": true
+    },
+    {
+        "nombre":"M3GAN",
+        "img": "https://pics.filmaffinity.com/M3GAN-622523142-large.jpg",
+        "desc": "Veremos como una ingeniera de robótica de una empresa de juguetes construye una muñeca realista que empieza a cobrar vida propia.",
+        "ready": true
+    },
+    {
+        "nombre":"Gato con Botas 2",
+        "img": "https://pics.filmaffinity.com/El_gato_con_botas_El_aultimo_deseo-897078202-large.jpg",
+        "desc": "El campestre personaje descubrirá el precio de su pasión por el peligro y el no tenerle miedo a la muerte. Gato ya ha consumido ocho de sus nuevas vidas, pero él ya ha perdido la cuenta por el camino. Para tratar de recuperar todas las vidas que ha perdido, deberá lanzarse a la mayor aventura que jamás ha vivido hasta el momento.",
+        "ready": true
+    },
+    {
+        "nombre":"Dragon Ball Super hero",
+        "img": "https://pics.filmaffinity.com/Dragon_Ball_Super_Super_Hero-181561937-large.jpg",
+        "desc": "Piccolo, personaje emblemático de la historia creada por Akira Toriyama, es el centro de la acción en esta nueva película. En esta ocasión, el Ejército Red Ribbon – al que se enfrentó Goku en el pasado- ha regresado con dos nuevos androides para desafiarle a él y a sus amigos.",
+        "ready": true
+    },
+    {
+        "nombre":"Black Adam",
+        "img": "https://pics.filmaffinity.com/Black_Adam-333825779-large.jpg",
+        "desc": "Black Adam es liberado de su tumba casi 5.000 años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses, ahora está listo para desatar su forma única de justicia en el mundo.",
+        "ready": true
+    },
+    {
+        "nombre":"Raya",
+        "img": "https://pics.filmaffinity.com/Raya_y_el_aultimo_dragaon-478061589-large.jpg",
+        "desc": "Viaja al mundo fantástico de Kumandra, donde humanos y dragones vivieron en armonía por mucho tiempo. Hasta que un día llegaron las tinieblas del mal, y los dragones se sacrificaron para salvar a la humanidad.",
+        "ready": true
+    },
+    {
+        "nombre":"Top Gun Maverick",
+        "img": "https://pics.filmaffinity.com/Top_Gun_Maverick-537976462-large.jpg",
+        "desc": "Después de más de treinta años de servicio, a Pete ‘Maverick’ Mitchell su reputación le precede. Maverick fue uno de los mejores aviadores de la Armada, condecorado con medallas de combate y menciones. Ahora debe volver a la academia de pilotos de combate Top Gun, donde le requieren como instructor de vuelo para formar a una nueva generación de jóvenes pilotos de combate.",
+        "ready": true
+    },
+    {
+        "nombre":"El hombre del Norte",
+        "img": "https://pics.filmaffinity.com/El_hombre_del_norte-392712806-large.jpg",
+        "desc": "Islandia, principios del siglo X. El pequeño príncipe nórdico Amleth ve como su padre el rey Horvendill es asesinado a manos del sanguinario Fjölnir. Ya entrado en la edad adulta emprende una misión de venganza en la que no se detendrá ante nada y ante nadie, dejando un pavoroso reguero de sangre a su paso.",
+        "ready": true
+    }
+]

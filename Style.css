@@ -1,0 +1,206 @@
+:root{
+    --fondo: rgba(44, 41, 185, 0.877);
+    --subtitulos: rgb(197, 196, 197);
+    --barra: linear-gradient(0deg, rgba(4,0,79,1) 0%, rgba(9,9,136,1) 57%, rgba(0,12,199,1) 100%);
+    --textoEncabezado: whitesmoke;
+    --bordeEncabezado: rgb(54, 100, 160);
+    --fondoEncabezado: rgb(82, 114, 173);
+    --bordeSecciones: rgb(62, 146, 167);
+    --fondoSecciones: rgb(137, 163, 180);
+    --bordeCartelera: rgba(189, 194, 193, 0.637);
+    --fondoCartelera: rgba(160, 189, 184, 0.39);
+    --fondoDescripcion: cornflowerblue;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+/*      Movil       */ 
+
+body{background-color: var(--fondo);}
+
+/*    encabezado    /   menu    */
+
+header{
+    position: fixed;
+    top: 0;
+    background: var(--barra);
+    width: 100%;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 50px 0;
+    z-index: 100;
+}
+
+header nav{
+    display: flex;
+    gap: 10px;
+}
+
+header nav a{
+    text-decoration: none;
+    position: relative;
+    padding: 12px 20px;
+    color: var(--textoEncabezado);
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.logo{
+    position: relative;
+    font-size: 2em;
+    color: var(--textoEncabezado);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+/*       main       */
+
+main{
+    margin-top: 10vh;
+    z-index: 2;
+}
+
+.dato{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    margin: 30px;
+    border: 10px double var(--bordeEncabezado);
+    border-radius: 20px;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: var(--textoEncabezado);
+    background-color: var(--fondoEncabezado);
+}
+
+section{
+    justify-content: center;
+    padding: 4rem 20px 0;
+    margin: 20px;
+}
+
+section legend{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: var(--subtitulos);
+    text-decoration: underline;
+    text-align: center;
+}
+
+section nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 10px solid var(--bordeSecciones);
+    border-radius: 25px;
+    background-color: var(--fondoSecciones);
+    padding: 20px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+/*      Solicitudes        */
+
+.solicitudes_lista{
+    justify-content: space-between;
+    padding: 1rem 2rem 1rem;
+    font-size: 1.3rem;
+}
+
+/*      Recientes y Disponibles     */
+
+.cartelera{
+    display: grid;
+    justify-content: center;
+    background-color: var(--fondoCartelera);
+    border: 5px solid var(--bordeCartelera);
+    border-radius: 10px;
+    margin: 5px 0;
+    height: 40vh;
+    width: 19.5vw;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.cartelera_container{
+    opacity: 0;
+    width: 19.5vw;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: var(--fondoDescripcion);
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    transition: 0.5s;
+    overflow-y: scroll;
+}
+
+.cartelera_container::-webkit-scrollbar{display: none;}
+
+.cartelera_container:hover{opacity: 80; z-index: 1;}
+
+.cartelera_titulo{
+    color: var(--textoEncabezado);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold; 
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.verMas{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    border: 5px solid var(--bordeSecciones);
+    border-radius: 10px;
+    background-color: var(--fondoSecciones);
+    padding: 0.7rem;
+    color: rgb(18, 17, 94);
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+/*      Pie de Pagina       */
+
+footer{
+    position: relative;
+    background-color: rgb(10, 7, 53);
+    padding: 1.5rem;
+    display: grid;
+    text-align: center;
+    font-size: 1.3rem;
+    color: var(--textoEncabezado);
+}
+
+.rodapie_contacto{
+    text-decoration: none;
+    color: rgb(32, 175, 44);
+}
+
+/*      Movil       */
+
+@media screen and (max-width:1080px) {
+
+    .dato{font-size: 0.75rem;}
+
+    .cartelera{height: 17vh;}
+    .cartelera_titulo{font-size: 1.2rem;}
+    .cartelera_info{font-size: 1rem;}
+    section legend{font-size: 2rem;}
+
+    footer{font-size: 1.1rem;}
+
+}
