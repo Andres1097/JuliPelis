@@ -12,7 +12,7 @@ function readTextFile(file, callback) {
     rawFile.send(null);
 }
 
-readTextFile("./data.json", function(text){
+readTextFile("../data.json", function(text){
     const data = JSON.parse(text);
 
     const nav = document.querySelector(".disponibles_lista");
