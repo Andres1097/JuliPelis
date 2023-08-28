@@ -1,5 +1,17 @@
 [
     {
+        "nombre":"The Boogieman",
+        "img":"https://pics.filmaffinity.com/The_Boogeyman-415243836-large.jpg",
+        "desc":"La alumna de instituto Sadie Harper y su hermana pequeña Sawyer se están recuperando de la reciente muerte de su madre pero no cuentan con demasiado apoyo por parte de su padre, Will, un terapeuta que está lidiando con su propio dolor. Cuando un paciente desesperado aparece inesperadamente en su casa buscando ayuda, deja atrás una aterradora entidad sobrenatural que se aprovecha de las familias y se alimenta del sufrimiento de sus víctimas.",
+        "ready":false
+    },
+    {
+        "nombre": "Indiana Jones y el dial del destino",
+        "img":"https://pics.filmaffinity.com/Indiana_Jones_y_el_dial_del_destino-145866922-large.jpg",
+        "desc":"El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+        "ready": true
+    },
+    {
         "nombre":"Secuestro en Directo",
         "img":"https://pics.filmaffinity.com/Secuestro_en_directo-204090545-large.jpg",
         "desc":"Elvis lleva 25 años aconsejando a sus oyentes en directo en su emblemático programa nocturno de entrevistas. Es uno de los últimos míticos locutores de radio que quedan y su sobrada experiencia le hace ignorar las advertencias de su jefa sobre su comportamiento en el programa. Cada noche llega a sus oyentes con su inconfundible voz y sus agudas réplicas. Tiene una opinión sobre prácticamente todo y se embarra en toda clase de polémicas. Hasta que una noche recibe la llamada de un hombre que está a punto de hacer algo terrible.",
@@ -22,12 +34,6 @@
         "img":"https://pics.filmaffinity.com/The_Machine-604689991-large.jpg",
         "desc":"El pasado borracho de Bert lo alcanza 20 años después cuando él y su padre son secuestrados por aquellos a quienes Bert agravió hace 20 años mientras estaba borracho en un semestre universitario en el extranjero en Rusia.",
         "ready": false
-    },
-    {
-        "nombre":"",
-        "img":"",
-        "desc":"",
-        "ready":false
     },
     {
         "nombre":"",

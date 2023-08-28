@@ -194,13 +194,25 @@ footer{
 
 @media screen and (max-width:1080px) {
 
-    .dato{font-size: 0.75rem;}
+    .dato{font-size: 20px;}
 
-    .cartelera{height: 17vh;}
+    .cartelera{
+        background-size: cover;
+        height: 18vh;
+        width: 27vw;
+    }
+
+    .cartelera_container{width: 27vw;}
     .cartelera_titulo{font-size: 1.2rem;}
     .cartelera_info{font-size: 1rem;}
     section legend{font-size: 2rem;}
 
-    footer{font-size: 1.1rem;}
+    .verMas{
+        margin-bottom: 3rem;
+        font-size: 2.5rem;
+    }
+
+    footer{font-size: 23px;}
+    footer span{padding: 2rem;}
 
 }
